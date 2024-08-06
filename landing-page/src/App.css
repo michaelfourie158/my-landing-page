@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Full viewport height */
+}
+
+.content-wrapper {
+  display: flex;
+  flex: 1;
+}
